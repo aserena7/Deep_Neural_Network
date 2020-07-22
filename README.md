@@ -11,6 +11,8 @@ Batch normalization, L1/L2 Regularizers and Initializer are also used to improve
 ## Repository Content
 - Python Script - *ANN_california_house.ipynb*
 - Results and Discussion - *DeepLearning_report.pdf*
+- Clean Dataset- *OceanProximityPreparedCleanAttributes.csv*
+- Hot Encoded Classes- *OceanProximityOneHotEncodedClasses.csv*
 
 ![](https://user-images.githubusercontent.com/55877748/88208293-4af1cf80-cc51-11ea-95be-f3725604c3e8.png)
 
